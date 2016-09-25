@@ -1,0 +1,8 @@
+[package]
+name = "base"
+version = "0.1.0"
+authors = ["Yitong"]
+
+[dependencies]
+rayon="*"
+time="*"

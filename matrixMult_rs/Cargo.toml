@@ -1,0 +1,12 @@
+[package]
+name = "mat_mlt"
+version = "0.1.0"
+authors = ["Yitong"]
+
+[dependencies]
+ndarray="*"
+rand="*"
+rayon="*"
+time="*"
+ndarray-rand="*"
+
